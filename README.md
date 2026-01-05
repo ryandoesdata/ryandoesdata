@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Hi! I'm Ryan, a software engineer with years of experience building full-stack applications, cloud infrastructure, and modern developer tooling. I'm a creator of Retriever, an Infrastructure as Code platform that lets teams spin up a full observability stack in their own cloud cheaply and easily. I built Retriever's MCP server, allowing users to utilize LLMs in debugging their applications. 
+
+I've also built a Mozart chatbot using OpenAI API, python, and RAG.
+
+When I'm afk I enjoy running, playing violin, and watching my two huskies wrestle (usually with love).
+
+www.runretriever.app
+
 <!--
 **ryandoesdata/ryandoesdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
