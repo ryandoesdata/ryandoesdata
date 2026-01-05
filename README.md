@@ -10,7 +10,7 @@ When I’m AFK, I enjoy running, playing violin, and watching my two huskies wre
 
 | Category                   | Technologies                                                                                                                                  |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI & LLM Systems**       | LLM integrations, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), vector databases, embeddings, natural-language querying |
+| **AI & LLM Systems**       | LLM integrations, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), pgvector, embeddings, natural-language querying |
 | **Languages**              | JavaScript, TypeScript, Python, SQL                                                                                                                |
 | **Web & Application**      | React, Node.js, Express, Vite, HTML, CSS                                                                                                      |
 | **APIs & Integration**     | REST APIs, GraphQL, webhooks                                                                                                                  |
