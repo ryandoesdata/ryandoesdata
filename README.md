@@ -8,6 +8,19 @@ I’ve also built a **Mozart chatbot** using the OpenAI API, Python, and **RAG**
 
 When I’m AFK, I enjoy running, playing violin, and watching my two huskies wrestle (usually lovingly).
 
+| Category                   | Technologies                                                                                                                                  |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI & LLM Systems**       | LLM integrations, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), vector databases, embeddings, natural-language querying |
+| **Languages**              | JavaScript, TypeScript, Python, SQL                                                                                                                |
+| **Web & Application**      | React, Node.js, Express, Vite, HTML, CSS                                                                                                      |
+| **APIs & Integration**     | REST APIs, GraphQL, webhooks                                                                                                                  |
+| **Data Stores**            | PostgreSQL, MongoDB, OpenSearch, vector databases                                                                                             |
+| **Observability**          | OpenTelemetry, Jaeger, Prometheus, SigNoz, AlertManager                                                                                                     |
+| **Infrastructure & Cloud** | AWS, Terraform, ECS / Fargate, VPC, ALB / NLB, ACM (TLS)                                                                                      |
+| **Containers & DevOps**    | Docker, Docker Compose, Git, GitHub                                                                                                           |
+
+
+
 ### Let's chat!
 
 [LinkedIn](www.linkedin.com/in/ryandoesdata)
