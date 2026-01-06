@@ -1,6 +1,6 @@
 ## Hey, I'm Ryan 👋🧑🏼‍💻🎻
 
-I'm a software engineer with experience building **full-stack applications**, **cloud infrastructure**, and **modern developer tooling**.
+I'm a software engineer with years of experience building **full-stack applications**, **cloud infrastructure**, and **modern developer tooling**.
 
 I'm a creator of [**Retriever**](www.runretriever.app) — an **Infrastructure as Code** platform that lets teams spin up a full observability stack in their own cloud **cheaply and easily**. I co-built Retriever’s **MCP server**, enabling developers to use **LLMs to debug applications** via natural-language queries.
 
