@@ -14,7 +14,7 @@ When I’m AFK, I enjoy running, playing violin, and watching my two huskies wre
 | **AI Tools**       | Cursor, Claude Code, Codex, Co-Pilot |
 | **Languages**              | JavaScript, TypeScript, Python, SQL                                                                                                                |
 | **Web & Application**      | React, Node.js, Express, Vite, HTML, CSS                                                                                                      |
-| **APIs & Integration**     | REST APIs, GraphQL, webhooks                                                                                                                  |
+| **APIs & Integration**     | REST APIs, webhooks                                                                                                                  |
 | **Data Stores**            | PostgreSQL, MongoDB, OpenSearch, vector databases                                                                                             |
 | **Observability**          | OpenTelemetry, Jaeger, Prometheus, SigNoz, AlertManager                                                                                                     |
 | **Infrastructure & Cloud** | AWS, Terraform, ECS / Fargate, VPC, ALB / NLB, ACM (TLS)                                                                                      |
